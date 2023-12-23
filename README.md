@@ -1,4 +1,5 @@
-# Java-Disassembler
+# Java-Disassembler 
+Spring 2020
 
 Takes a binary file and returns the arm assembly instructions. Limited to very basic assembly instructions
 
@@ -15,3 +16,4 @@ run the ./run.sh script and then enter a <dir/fileName.machine> for the prompt
 it will return an error and vice versa.
 
 Also the build.sh and run.sh scripts are found inside the src\dissasembler\ folder
+
